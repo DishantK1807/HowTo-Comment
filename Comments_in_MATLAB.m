@@ -23,5 +23,6 @@ extened comments
 %}
 extended comments closed
 %}
+c=6;
 
 
